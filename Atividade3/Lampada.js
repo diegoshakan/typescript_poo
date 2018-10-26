@@ -21,3 +21,4 @@ var l1 = new Lampada();
 l1.mudarEstado();
 console.log(l1);
 l1.mudarEstado();
+//# sourceMappingURL=Lampada.js.map

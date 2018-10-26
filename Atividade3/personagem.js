@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 var Personagem = /** @class */ (function () {
     function Personagem(name) {
         this.nome = name;
@@ -49,3 +49,4 @@ p1.mover('esquerda');
 console.log(p1.verPosicao());
 p1.dano(5);
 console.log('Jogador:', p1.nome, 'Seu status de vida:', p1.conferirVida());
+//# sourceMappingURL=personagem.js.map

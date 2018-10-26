@@ -26,3 +26,4 @@ b1.pedalar(20);
 console.log(b1.verVelocidade());
 b1.frear();
 console.log(b1.vel);
+//# sourceMappingURL=bike.js.map

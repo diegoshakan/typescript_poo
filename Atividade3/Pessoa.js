@@ -30,3 +30,4 @@ diego.correr();
 console.log(diego);
 diego.parar();
 console.log(diego);
+//# sourceMappingURL=Pessoa.js.map

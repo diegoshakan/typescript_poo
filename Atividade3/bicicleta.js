@@ -38,3 +38,4 @@ var catraca = 5;
 bike1.modificarMarcha(coroa, catraca);
 console.log(bike1.obertMarcha());
 bike1.modificarMarcha(coroa);
+//# sourceMappingURL=bicicleta.js.map
