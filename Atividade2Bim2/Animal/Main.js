@@ -1,0 +1,14 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var Cachorro_1 = require("./Cachorro");
+var Cavalo_1 = require("./Cavalo");
+var Preguica_1 = require("./Preguica");
+var cachorro = new Cachorro_1.Cachorro("Cachoro", 4, 1);
+cachorro.subirNaArvore(3);
+cachorro.descerDaArvore();
+var cavalo = new Cavalo_1.Cavalo("Cavalo", 7, 3);
+cavalo.subirNaArvore(3);
+cavalo.descerDaArvore();
+var preguica = new Preguica_1.Preguica("Preguiça", 2, 1);
+preguica.subirNaArvore(3);
+preguica.descerDaArvore();
